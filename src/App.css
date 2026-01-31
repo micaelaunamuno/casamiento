@@ -1,0 +1,4 @@
+/* Global App styles (mostly handled by index.css) */
+.App {
+  scroll-behavior: smooth;
+}

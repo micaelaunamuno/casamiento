@@ -1,0 +1,79 @@
+{
+  "rsvps": [
+    {
+      "name": "Test User",
+      "attending": "yes",
+      "diet": "none"
+    },
+    {
+      "name": "mica",
+      "attending": "yes",
+      "diet": "vegan"
+    },
+    {
+      "name": "Juan perez",
+      "attending": "yes",
+      "diet": "none"
+    },
+    {
+      "name": "Micky test",
+      "attending": "yes",
+      "diet": "none"
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Micky Testing",
+      "correctAnswers": 5,
+      "score": 507,
+      "timeElapsed": 53
+    },
+    {
+      "name": "Micky Testing",
+      "correctAnswers": 5,
+      "score": 501,
+      "timeElapsed": 59
+    },
+    {
+      "name": "mimi",
+      "score": 2,
+      "timeElapsed": 2
+    },
+    {
+      "name": "juan",
+      "score": 2,
+      "timeElapsed": 15
+    },
+    {
+      "name": "chiche",
+      "score": 0,
+      "timeElapsed": 3
+    },
+    {
+      "name": "Micky Testing",
+      "score": 0,
+      "timeElapsed": 8
+    },
+    {
+      "name": "Micky Testing",
+      "score": 0,
+      "timeElapsed": 9
+    },
+    {
+      "name": "Quiz TQuiz Testerester",
+      "score": 0,
+      "timeElapsed": 60
+    },
+    {
+      "name": "Quiz TQuiz Testerester",
+      "score": 0,
+      "timeElapsed": 60
+    },
+    {
+      "name": "Real TReal Testerester",
+      "score": 0,
+      "timeElapsed": 60
+    }
+  ],
+  "wishes": []
+}

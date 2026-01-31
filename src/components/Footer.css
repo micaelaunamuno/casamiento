@@ -1,0 +1,18 @@
+.footer {
+    padding: var(--spacing-lg) 5%;
+    background-color: var(--white);
+    border-top: 1px solid #F0F0F0;
+    text-align: center;
+}
+
+.footer-message {
+    font-family: var(--primary-font);
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.footer-date {
+    font-size: 0.9rem;
+    letter-spacing: 0.2em;
+    color: var(--text-grey);
+}
